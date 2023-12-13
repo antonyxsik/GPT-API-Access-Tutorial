@@ -1,0 +1,12 @@
+Please explain these concepts in detail, and walk me through a step by step guide of one iteration of this procedure that is described in the paper. 
+
+I believe the process looks something like this: 
+
+   - do a thing
+   - then do this thing
+   - combine these two things to get this thing
+
+My confusion lies in step 3. I am not sure exactly how the two things are combined. In order to complete these requests, please reference the following quoted text:
+
+"Feel free to quite literally paste a paper in here, I believe that the turbo version of GPT4 can handle almost 300 pages of text, although even that number may soon be 
+relatively unimpressive"
